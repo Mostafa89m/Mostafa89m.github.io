@@ -1,9 +1,9 @@
-﻿Label: Akusio repo
-Origin: Akusio repo
+﻿Label: mostafa89 repo
+Origin: mostafa89 repo
 Suite: stable
 Version: 1.0
-Codename: Akusio-repo
+Codename: mostafa89-repo
 Architectures: iphoneos-arm iphoneos-arm64
 Components: main
-Description: akusio repo.
+Description: mostafa89 repo.
 
